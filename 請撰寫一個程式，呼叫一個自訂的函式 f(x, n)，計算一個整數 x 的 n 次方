@@ -1,2 +1,2 @@
 def f(x, n):
-    x**n
+    return x**n
